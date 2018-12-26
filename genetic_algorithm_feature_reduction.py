@@ -16,8 +16,8 @@ import torch.utils.data as Data
 import random
 
 # Genetic Algorithm parameters
-population_size = 2
-itterations = 2
+population_size = 200
+itterations = 50
 chromosome_size = 80
 mutation_chance = 0.05
 
